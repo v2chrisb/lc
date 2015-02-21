@@ -1,7 +1,14 @@
 # lc
 This repo exists to allow me room To play with Clojure and become more adept at using emacs.
 
-Programming and mathematics have intrigued me for years, but alas, I have to work very hard at both to make even modest progress.
+Programming and mathematics have intrigued me for years, but alas, I have to work very hard at both to make even modest progress. But work I will, and maybe someday I'll be a real programmer.
 
 ### Where to Start
-Now that I stumbled my way through remembering how to use Git, it's on to the world of learning how to use emacs. My goal is to be using emacs as a Clojure IDE by Easter Sunday, so from now until then I envision many little commits containing Clojure learning exercises.
+The tutorial at braveclojure.com is great, and because of it I already have emacs comfortably configured with the Cider REPL for Clojure. Here's how I see the first steps happening:
+
++ Become an honest emacs user by using it  whenever you work with text.
++ Dabble in Clojure here and there from now until the end of the semester.  There won't be lots of time for this, so I won't feel bad that I can only dabble.
++ Try a bit harder to find useful Clojure learning opportunities over the summer.
+
+### Final Thought
+Ultimately I aspire to be a solid programmer, but I also know I don't have the intellectual capital that many other programmers have. What I *do* have is an everlasting curiosity about solving problems with software and mathematics combined with a track record of persistent lifelong learning habits. I'll get there someday.

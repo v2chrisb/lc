@@ -1,0 +1,44 @@
+Clojure Notes (left off @ 2.10)
+=============
+
+A Clojure epigram hinting to the Clojure philosophy:
+
+It is better to have 100 functions operate on one data structure
+than 10 functions on 10 data structures.
+
+-- Alan Perlis
+
+The lesson is to keep an eye out for the ways you gain code re-use by sticking to basic data structures.
+
+
+DEFINITIONS
+
+form: structurally valid Clojure code.
+
+operations: how you do things. They take the form of "opening paren, operator, operands, closing paren."
+
+def: used to bind a name to a value.
+
+
+DATA STRUCTURE EXAMPLES
+
+* string     "Rocky Balboa"
+* map        {:name "Bill" :zip 91325}
+* vector     [3 2 1]
+* operation  (+ 1 5)
+* set        #{"chicken" "soup" 10 12}
+
+
+NOTES
+
+Clojure only allows double quotes to delineate strings and only allows concatenation va the str function.
+
+Maps are similar to dictionaries or hashes in other languages; they are a way of associating some value with some other value.
+
+Keywords are primarily used as keys in maps.
+
+Vectors are similar to an array in that they're a 0-indexed collection.
+
+Lists are similar to vectors, but there are differences. For now, use vectors.
+
+Sets are collections of unique values.

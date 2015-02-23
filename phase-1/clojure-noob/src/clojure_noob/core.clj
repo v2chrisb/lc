@@ -10,3 +10,7 @@
 (defn train
   []
   (println "Choo choo!"))
+
+(if false
+  "You're true."
+  "Not true.")
